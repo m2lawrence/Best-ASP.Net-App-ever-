@@ -7,4 +7,5 @@ ASP.Net website and a backend SQL Database.
 This App is wrote in VB pages and is also wrote in C# pages.
 
 I can create C# Objects: Object Object = new Class() 
+
 I know OOP.
